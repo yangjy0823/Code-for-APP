@@ -37,11 +37,10 @@ The APP aims to:
 
 ## 2. Repo Contents
 
-- `Readme.doc`: Detailed user guide (requirement, installation, operation)
-- `athlete_fatigue_monitoring code in Cloud`: Contains all editable code files on the cloud server.
-- `APP code`: Contains all editable code files that power the app's functionality.
-- `app-release.apk.1.1`: The Android package file for end-user installation.
-- `Test`: Include test files to validate core functionality.
+- `README.md`: Detailed user guide (requirement, installation, operation)
+- `Code in Cloud`: Contains all editable code files on the cloud server.
+- `APP package`: Contains all editable code files that power the app's functionality and the Android package file for end-user installation.
+- `Demo`: Include test files to validate core functionality.
 - `Fatigue analysis.pptx`: Software Installation Guide
 
 ## 3. System Requirements
