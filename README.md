@@ -8,7 +8,6 @@
 - Installation Guide
 - Demo
 - Results
-- License
 - Issues
 
 ## 1. Overview
@@ -167,24 +166,9 @@ The Fatigue Analysis APP has been validated to meet all core requirements:
 - Battery Consumption: ~5% per hour (device-dependent)
 - Supported Device Compatibility: 100% of Android 5.0+ devices tested
 
-## 7. License
 
-### Copyright Ownership
 
-- Software Name: Fatigue Analysis
-- Version: 1.0.0
-- Copyright Holder: Nankai University (Unified Social Credit Code: 121000004013593721)
-- Rights Acquisition: Original Acquisition
-- Rights Scope: Full copyright (including publication right, signature right, modification right, reproduction right, distribution right, information network transmission right, etc.)
-
-### Usage Terms
-
-- The software is intended for non-commercial use (sports science research, personal health management).
-- Commercial use requires prior written authorization from Nankai University.
-- Modification, reproduction, or distribution of the software must retain the original copyright notice.
-- For academic use, please cite the software as specified in the "Citation" section.
-
-## 8. Issues
+## 7. Issues
 
 ### Known Limitations:
 
