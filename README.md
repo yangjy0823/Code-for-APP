@@ -167,6 +167,15 @@ The Fatigue Analysis APP has been validated to meet all core requirements:
 - Battery Consumption: ~5% per hour (device-dependent)
 - Supported Device Compatibility: 100% of Android 5.0+ devices tested
 
+## 7. License
+
+### Copyright Ownership
+
+- Software Name: Fatigue Analysis
+- Version: 1.0.0
+- Copyright Holder: Nankai University (Unified Social Credit Code: 121000004013593721)
+- Rights Acquisition: Original Acquisition
+- Rights Scope: Full copyright (including publication right, signature right, modification right, reproduction right, distribution right, information network transmission right, etc.)
 
 ### Usage Terms
 
